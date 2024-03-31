@@ -1,0 +1,29 @@
+Overload là trường hợp
+    Các method cùng tên, cùng kiểu trả về, nhưng khác parameter. -> đa dạng constructor
+
+abstract class dùng để trừu tượng hóa đối tượng cha.
+    trong abstract class có thể có
+
+        abstract method -> các class con kế thừa bắt buộc phải Overide lại.
+        abstract method không có thân hàm, chỉ cần khai báo tên
+
+        method bình thường
+
+Tại sao read + write phải dùng buffer
+
+abstract có thể có thuộc tính - interface không có thuộc tính
+
+Trong interface các method là abstract.
+
+Khi nao dung abstract, Khi nao dung interface
+    nếu có thuộc tính [field] thì dùng abstract
+    nếu không liên quan đến thuộc tính [field] thì dùng interface
+
+tham chieu trong java
+
+autoboxing và unboxing
+
+collection link
+    https://topdev.vn/blog/collection-trong-java/?utm_source=google&utm_medium=cpc&utm_campaign=topdev&utm_content=performance&gad_source=1&gclid=Cj0KCQjwk6SwBhDPARIsAJ59Gwe6SZ7Lsv6TnsH-GnWvOjgFgvsi4ju5HaHav3ASZv56FXS8we3bW28aAkhfEALw_wcB
+
+checked exception, unchecked exception
